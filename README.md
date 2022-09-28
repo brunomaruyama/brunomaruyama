@@ -1,4 +1,4 @@
-### Olá sou Bruno Maruyama! 👋
+### Hi, I'm Bruno Maruyama! 👋
 - 🔭 I’m currently working on geology and paleonthology as lab technician at University of São Paulo
 - 🌱 I’m currently learning web development(HTML, CSS, JS, ReactJS, TypeScript, NodeJS, Git, GitHub, SQL) and data science (currently on MBA)
 
