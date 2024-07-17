@@ -1,7 +1,6 @@
 ### Hi, I'm Bruno Maruyama! 👋
-- 🔭 I’m currently working on geology and paleonthology as lab technician at University of São Paulo
-- 🌱 I’m currently learning web development(HTML, CSS, JS, ReactJS, TypeScript, NodeJS, Git, GitHub, SQL) and data science (currently on MBA)
-
+- 🔭 I’m currently avaiable for work on front-end development
+- 🌱 My projects include NextJS, TailwindCSS, HTML, CSS, JS, ReactJS, TypeScript, NodeJS, Git, GitHub, SQL
 
 
 <div align="center">
@@ -10,6 +9,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomaruyama&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
