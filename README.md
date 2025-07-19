@@ -1,6 +1,6 @@
 ### Hi, I'm Bruno Maruyama! 👋
-- 🔭 I’m currently avaiable for work on front-end development
-- 🌱 My projects include NextJS, TailwindCSS, HTML, CSS, JS, ReactJS, TypeScript, NodeJS, Git, GitHub, SQL
+- 🔭 I’m currently available for work on front-end development
+- 🌱 My projects include ReactJs, ReactNative, NextJS, TailwindCSS, HTML, CSS, JS, ReactJS, TypeScript, NodeJS, Git, GitHub, SQL
 
 
 <div align="center">
